@@ -1,0 +1,21 @@
+{
+  "name": "bloomknights-backend-demo",
+  "version": "1.0.0",
+  "description": "A small dependency-free Node.js REST API demo for team/project coordination.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "rest-api",
+    "hackathon"
+  ],
+  "author": "Sally Huynh",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
