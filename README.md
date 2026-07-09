@@ -1,6 +1,6 @@
 # BloomKnights Backend Demo
 
-A small Node.js REST API that models team coordination for a mini-hackathon.
+A small Node.js REST API that models team coordination for a hackathon.
 
 I built this as a simple backend sample to show:
 
